@@ -1,0 +1,1 @@
+# Lag et script som printer alle tallene fra og med 1 til og med 100.
